@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:779352875569:android:434c15f1201ac44eefeb10",
         "android_client_info": {
-          "package_name": "com.jhoanjimenez.flutterauthapp"
+          "package_name": "gov.co.santamarta.flutterauthapp"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "779352875569-rg24f8252ajrf232vccsi0vov4s0k7tp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.jhoanjimenez.flutterauthapp",
+            "package_name": "gov.co.santamarta.flutterauthapp",
             "certificate_hash": "4ce7fa43c073f7391b03f13d8404a8736084cb95"
           }
         },

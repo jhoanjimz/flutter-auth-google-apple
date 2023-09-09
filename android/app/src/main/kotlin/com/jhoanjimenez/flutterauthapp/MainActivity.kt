@@ -1,4 +1,4 @@
-package com.jhoanjimenez.flutterauthapp
+package gov.co.santamarta.flutterauthapp
 
 import io.flutter.embedding.android.FlutterActivity
 
